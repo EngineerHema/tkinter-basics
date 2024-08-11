@@ -1,5 +1,5 @@
 # tkinter-basics
-Showing some of tkinter widgets in a temperature convertor
+Showing some of tkinter widgets in a temperature convertor\n
 **Example:**
 `Radio buttons`
 `Entries`
